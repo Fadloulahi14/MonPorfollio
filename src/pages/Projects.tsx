@@ -3,6 +3,45 @@ import { Button } from "@/components/ui/button";
 
 const Projects = () => {
   const projects = [
+     {
+      title: "BankODC – Gestion des comptes et clients bancaires",
+      description:
+        "Application backend développée avec Spring Boot permettant la gestion complète des clients et des comptes bancaires.",
+      technologies: ["Spring Boot", "Spring Data JPA", "BSpring Security", ", PostgreSQL", "Docker"],
+       link: "https://github.com/Fadloulahi14/OMPaySpringBoot",
+      referent: "M. Birane Baila Wane",
+      phone: "77 766 95 95",
+      gradient: "from-blue-500 to-cyan-500",
+    },
+     {
+      title: "BANQUE – Gestion Bancaire",
+      description:
+        "Application backend développée avec Laravel pour la gestion complète des clients, comptes bancaires et transactions.",
+      technologies: ['Laravel', 'PostgreSQL','(Railway / Neon)', 'MongoDB', 'Horizon', 'JWT', 'Docker', 'Render' ,'déploiement cloud'],
+      link: "https://github.com/Fadloulahi14/projetLaravelGestionBancaire",
+      referent: "M. Birane Baila Wane",
+      phone: "77 766 95 95",
+      gradient: "from-blue-500 to-cyan-500",
+    },
+     {
+      title: "Murafa – E-commerce (Vente d’habits)",
+      description:
+        "Plateforme de commerce en ligne permettant la mise envente et l’achat de vêtements. Intègre la gestion des produits, panier, paiement et utilisateurs.",
+      technologies: ["Next.js,", "Supabase,", "Bootstrap", "TailwindCSS"],
+       link: "https://murafacreation.vercel.app/",
+    
+    },
+     {
+      title: "Application du Mussee de la civilisation Africaine",
+      description:
+        "plateforme pour la virtualisation du mussee .",
+      technologies: ["React", "Nodes js", "postegres", "docker"],
+       link: "https://musser-fadildev.vercel.app/",
+      // referent: "M. Birane Baila Wane",
+      // phone: "77 766 95 95",
+      // gradient: "from-blue-500 to-cyan-500",
+    },
+    //limite
     {
       title: "Gestion des étudiants",
       description:

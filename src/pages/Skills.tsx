@@ -12,6 +12,7 @@ const Skills = () => {
         { name: "JavaScript", level: 90 },
         { name: "TypeScript", level: 85 },
         { name: "React", level: 88 },
+        { name: "Angular", level: 88 },
       ],
     },
     {
@@ -20,8 +21,9 @@ const Skills = () => {
       color: "from-green-500 to-emerald-500",
       skills: [
         { name: "PHP Laravel", level: 90 },
+        { name: "JAVA Spring BOOT", level: 90 },
         { name: "Python", level: 75 },
-        { name: "Node.js", level: 85 },
+        { name: "Node.js", level: 100 },
       ],
     },
     {

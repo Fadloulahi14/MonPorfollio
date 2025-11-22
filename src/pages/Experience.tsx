@@ -8,7 +8,7 @@ const Experience = () => {
       company: "Orange Digital Center (SONATEL ACADEMY)",
       period: "Février 2025 - Octobre 2025",
       location: "Dakar, Sénégal",
-      type: "Formation",
+      type: "Developpeur Full Stack",
       description:
         "Formation intensive en développement full stack avec apprentissage des technologies modernes, méthodologies agiles et bonnes pratiques de développement. Réalisation de projets concrets en équipe.",
       achievements: [
