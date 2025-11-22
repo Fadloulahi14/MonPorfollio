@@ -29,6 +29,8 @@ const Projects = () => {
         "Plateforme de commerce en ligne permettant la mise envente et l’achat de vêtements. Intègre la gestion des produits, panier, paiement et utilisateurs.",
       technologies: ["Next.js,", "Supabase,", "Bootstrap", "TailwindCSS"],
        link: "https://murafacreation.vercel.app/",
+       gradient: "from-blue-500 to-cyan-500",
+
     
     },
      {
@@ -39,7 +41,7 @@ const Projects = () => {
        link: "https://musser-fadildev.vercel.app/",
       // referent: "M. Birane Baila Wane",
       // phone: "77 766 95 95",
-      // gradient: "from-blue-500 to-cyan-500",
+       gradient: "from-blue-500 to-cyan-500",
     },
     //limite
     {
