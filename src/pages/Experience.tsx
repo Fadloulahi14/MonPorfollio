@@ -10,13 +10,14 @@ const Experience = () => {
       location: "Dakar, Sénégal",
       type: "Developpeur Full Stack",
       description:
-        "Développeur full,à l'Orange Digital Center (SONATEL ACADEMY) stack avec Une riche apprentissage des technologies modernes, méthodologies agiles et bonnes pratiques de développement. Réalisation de projets concrets en équipe.",
+        "Développeur full stack,à l'Orange Digital Center (SONATEL ACADEMY)  avec Une riche apprentissage des technologies modernes, méthodologies agiles et bonnes pratiques de développement. Réalisation de projets concrets en équipe.",
       achievements: [
         "Maîtrise approfondie de React et Node.js",
         "Développement d'applications full stack complètes",
         "Travail en équipe avec méthodes agiles",
         "Intégration d'API et services tiers",
       ],
+      link: "https://orangedigitalcenter.sn/",
       gradient: "from-orange-500 to-red-500",
     },
     {
