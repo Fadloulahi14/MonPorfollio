@@ -12,7 +12,8 @@ const Experience = () => {
       description:
         "Développeur full stack,à l'Orange Digital Center (SONATEL ACADEMY)  avec Une riche apprentissage des technologies modernes, méthodologies agiles et bonnes pratiques de développement. Réalisation de projets concrets en équipe.",
       achievements: [
-        "Maîtrise approfondie de React et Node.js",
+        "Maîtrise approfondie de React, Node.js, Spring Boot, Laravel, ANgular, Flutter",
+        "Maîtrise approfondie de Docker, K8S, Jinkins, Jmetter, Git, CI/CD",
         "Développement d'applications full stack complètes",
         "Travail en équipe avec méthodes agiles",
         "Intégration d'API et services tiers",
