@@ -6,7 +6,7 @@ const About = () => {
       year: "2025",
       title: "Développeur Full Stack",
       institution: "Orange Digital Center (SONATEL ACADEMIE)",
-      description: "Formation intensive en développement web et mobile",
+      description: "Développeur Full Stack",
     },
     {
       year: "2024",
@@ -75,7 +75,7 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <div className="flex items-center gap-3 mb-12">
             <GraduationCap className="w-8 h-8 text-primary" />
-            <h2 className="text-3xl font-bold">Formation</h2>
+            <h2 className="text-3xl font-bold">Formation & Poste </h2>
           </div>
           
           <div className="space-y-6">

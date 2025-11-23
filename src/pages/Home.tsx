@@ -97,7 +97,7 @@ const Home = () => {
             </div>
             <h3 className="text-xl font-bold">Développement Full Stack</h3>
             <p className="text-muted-foreground">
-              Expertise en React, Laravel, Node.js et Flutter pour des applications complètes
+              Expertise en Spring Boot, Laravel, Node.js, React, Angular et Flutter pour des applications complètes
             </p>
           </div>
 
@@ -107,7 +107,7 @@ const Home = () => {
             </div>
             <h3 className="text-xl font-bold">DevOps & Cloud</h3>
             <p className="text-muted-foreground">
-              Maîtrise de Docker, Kubernetes, Jenkins et CI/CD pour des déploiements optimisés
+              Maîtrise de Docker, Kubernetes, Jenkins, Jmeter et CI/CD pour des déploiements optimisés
             </p>
           </div>
 

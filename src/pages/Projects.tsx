@@ -3,6 +3,27 @@ import { Button } from "@/components/ui/button";
 
 const Projects = () => {
   const projects = [
+
+    {
+      title: "Murafa – E-commerce (Vente d’habits)",
+      description:
+        "Plateforme de commerce en ligne permettant la mise envente et l’achat de vêtements. Intègre la gestion des produits, panier, paiement et utilisateurs.",
+      technologies: ["Next.js,", "Supabase,", "Bootstrap", "TailwindCSS"],
+       link: "https://murafacreation.vercel.app/",
+       gradient: "from-blue-500 to-cyan-500",
+
+    
+    },
+     {
+      title: "Application du Mussee de la civilisation Africaine",
+      description:
+        "plateforme pour la virtualisation du mussee .",
+      technologies: ["React", "Nodes js", "postegres", "docker"],
+       link: "https://musser-fadildev.vercel.app/",
+      // referent: "M. Birane Baila Wane",
+      // phone: "77 766 95 95",
+       gradient: "from-blue-500 to-cyan-500",
+    },
      {
       title: "BankODC – Gestion des comptes et clients bancaires",
       description:
@@ -23,26 +44,7 @@ const Projects = () => {
       phone: "77 766 95 95",
       gradient: "from-blue-500 to-cyan-500",
     },
-     {
-      title: "Murafa – E-commerce (Vente d’habits)",
-      description:
-        "Plateforme de commerce en ligne permettant la mise envente et l’achat de vêtements. Intègre la gestion des produits, panier, paiement et utilisateurs.",
-      technologies: ["Next.js,", "Supabase,", "Bootstrap", "TailwindCSS"],
-       link: "https://murafacreation.vercel.app/",
-       gradient: "from-blue-500 to-cyan-500",
-
-    
-    },
-     {
-      title: "Application du Mussee de la civilisation Africaine",
-      description:
-        "plateforme pour la virtualisation du mussee .",
-      technologies: ["React", "Nodes js", "postegres", "docker"],
-       link: "https://musser-fadildev.vercel.app/",
-      // referent: "M. Birane Baila Wane",
-      // phone: "77 766 95 95",
-       gradient: "from-blue-500 to-cyan-500",
-    },
+     
     //limite
     {
       title: "Gestion des étudiants",
