@@ -58,7 +58,7 @@ const About = () => {
             À Propos de <span className="gradient-text">Moi</span>
           </h1>
           <p className="text-xl text-muted-foreground leading-relaxed">
-            Développeur Full Stack & DevOps avec 3 ans d'expérience dans la création de sites et
+            Développeur Full Stack & DevOps avec plus d'un an d'expérience dans la création de sites et
             d'applications web. Solide expertise en intégration d'API, gestion de bases de données
             et CMS. Maîtrise des outils DevOps modernes tels que Docker, Jenkins, JMeter et
             Kubernetes pour l'automatisation, le déploiement et l'orchestration d'applications.

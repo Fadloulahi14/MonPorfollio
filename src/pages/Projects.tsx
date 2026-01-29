@@ -5,6 +5,20 @@ const Projects = () => {
   const projects = [
 
     {
+      title: "Luxury Jet – E-commerce (Produits naturels)",
+      description: "Site e-commerce spécialisé dans la vente de produits naturels : huiles naturelles, parfums, thiourayes et poudre de riz. Développé avec Next.js pour une expérience utilisateur optimale.",
+      technologies: ["Next.js", "Vercel"],
+      link: "https://luxury-jet.vercel.app/",
+      gradient: "from-green-500 to-emerald-500",
+    },
+    {
+      title: "Senegal Travel – Agence de voyage",
+      description: "Application web d'agence de voyage permettant la réservation et la gestion de voyages. Développée avec React pour le frontend et Spring Boot pour le backend.",
+      technologies: ["React", "Spring Boot", "Vercel"],
+      link: "https://senegal-travel.vercel.app/",
+      gradient: "from-blue-500 to-cyan-500",
+    },
+    {
       title: "Murafa – E-commerce (Vente d’habits)",
       description:
         "Plateforme de commerce en ligne permettant la mise envente et l’achat de vêtements. Intègre la gestion des produits, panier, paiement et utilisateurs.",
