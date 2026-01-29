@@ -25,7 +25,7 @@ const Home = () => {
               
               <p className="text-xl text-muted-foreground">
                 Développeur Full Stack & DevOps passionné par la création
-                d'applications web et mobiles innovantes avec 3 ans d'expérience.
+                d'applications web et mobiles innovantes avec plus d'un an d'expérience.
               </p>
               
               <div className="flex flex-wrap gap-4">
